@@ -27,7 +27,7 @@
 | ☕ Backend    | Java, Spring Boot                         |
 | 🎨 Frontend  | HTML5, CSS3, JavaScript, React, Bootstrap |
 | 🗄️ Database | MySQL                                     |
-| 🔧 Tools     | Git, GitHub                               |
+| 🔧 Tools     | Git, GitHub, VS Code                             |
 
 ---
 
